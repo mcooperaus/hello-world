@@ -1,2 +1,1 @@
-# hello-world
-My first Git
+Hello All.  My name is Michael Cooper
